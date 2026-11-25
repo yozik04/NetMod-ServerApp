@@ -37,7 +37,7 @@
 //---------------------------------------------------------------------------//
 // IMPORTANT: The code_revision must be exactly 13 characters. A Space
 // character is allowed, but there cannot be two or more consecutive spaces.
-const char code_revision[] = "20240701 TEST"; // Normal Release Revision
+const char code_revision[] = "20261125 2155"; // Normal Release Revision
 //---------------------------------------------------------------------------//
 //---------------------------------------------------------------------------//
 //---------------------------------------------------------------------------//
